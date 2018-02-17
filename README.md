@@ -1,5 +1,6 @@
 # EARL
 This application is for hackCWRU 2018, and provides an interface to easily send emergency request messages for opioid overdoses
+
 Contributers: Aarushi Singh, Saikishore Gowrishankar, Eli Steiger
 
 ## About
