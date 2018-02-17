@@ -10,3 +10,7 @@ We created an app called E.A.R.L (Emergency Action Request Locator) which would 
 
 ## Login
 When the user opens the slide, this would appear on their screen. They would have to log in or sign up and by doing so, they are allowing their phone to be tracked in case of an emergency and are agreeing to receive notifications when others are in need of help.
+
+## SOS
+After a user has signed up or logged in, they would see a SOS button in the middle of their screen. This button is large and accessible to ensure that those who are incapable of calling for help can receive aid with a click of a button. Once this button is clicked, people who have this app in the local area would receive notifications alerting them of an overdose. 
+
