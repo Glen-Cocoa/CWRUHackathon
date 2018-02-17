@@ -1,5 +1,6 @@
 # EARL
-This application provides an interface to easily send emergency request messages for opioid overdoses
+This application is for hackCWRU 2018, and provides an interface to easily send emergency request messages for opioid overdoses
+Contributers: Aarushi Singh, Saikishore Gowrishankar, Eli Steiger
 
 ## About
 43,982 drug overdose deaths occurred in 2013 across the nation. That’s two times the amount of overdose deaths a decade ago. Opioids are depressants, which means that they slow breathing and heart rate. When a person has an overdose, they have a higher risk of respiratory failure which could lead to coma, permanent brain damage or death. 
