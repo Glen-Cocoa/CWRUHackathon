@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![EARL](http://oi63.tinypic.com/2s1aqrm.jpg)
 # E.A.R.L
 This application is for hackCWRU 2018, and provides an interface to easily send emergency request messages for opioid overdoses
 
