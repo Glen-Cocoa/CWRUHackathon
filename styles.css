@@ -46,11 +46,11 @@ li:hover{
 
 .footer{
   flex-basis:7%;
-  background-color:#DA3C1A;
   opacity:1;
   border-radius:45px;
-
-}
+  background: linear-gradient(#a90329 0%, #8f0222 44%, #6d0019 100%);
+  border:1px black solid;
+  }
 
 .footer:hover{
   opacity:0.8;
@@ -62,7 +62,7 @@ li:hover{
 
 .disclaimer{
   font-size:2vw;
-  font-color:white;
+  color:orange;
   margin-left:38.2%;
   font-family:seraf;
 }
